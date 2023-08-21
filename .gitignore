@@ -4,7 +4,10 @@
 .classpath
 # Compiled class file
 *.class
-
+#Eclipse 
+.project
+.classpath
+.settings/
 # Log file
 *.log
 
